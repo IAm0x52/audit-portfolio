@@ -39,7 +39,7 @@ Below is a subset of my private audit reports that have been approved by clients
 | Buffer Finance   | Short-dated Options | Sherlock | 1st Place  | [Report](https://audits.sherlock.xyz/contests/24/report) |
 | Isomorph         | Collateralized Lending | Sherlock | 1st Place  | [Report](https://audits.sherlock.xyz/contests/22) |
 | UXD              | Derivative-Backed Stablecoin | Sherlock | 1st Place  | [Report](https://audits.sherlock.xyz/contests/33/report) |
-| OpenQ            | Decentralized Bounty Hosting | Sherlock | 1st Place  | [Report](hhttps://audits.sherlock.xyz/contests/39/report) |
+| OpenQ            | Decentralized Bounty Hosting | Sherlock | 1st Place  | [Report](https://audits.sherlock.xyz/contests/39/report) |
 | Fair Funding     | Early-Stage Funding via Alchemix | Sherlock | 1st Place  | [Report](https://audits.sherlock.xyz/contests/42/report) |
 | Volta            | YB-Backed Stablecoin | Sherlock | 1st Place  | [Contest Page](https://audits.sherlock.xyz/contests/47) |
 | OlympusDAO       | Protocol Matched Liquidity | Sherlock | 1st Place  | [Report](https://audits.sherlock.xyz/contests/50/report) |
