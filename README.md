@@ -25,6 +25,7 @@ Below is a subset of my private audit reports that have been approved by clients
 | stUSDCxBloom | Tokenized US Treasuries | [Report](reports/9-22-24-stUSDCxBloom-Report.md) |
 | Ubet | Parley Bets | [Report](reports/12-9-24-Ubet-Parlay-Report.md) |
 | Hyperstable | CDP Stablecoin | [Report](reports/2-5-25-Hyperstable.md) |
+| Belief Market | Sentiment Betting | [Report](reports/4-1-25-Belief-Market-Report.md) |
 
 ### Contest Wins
 
