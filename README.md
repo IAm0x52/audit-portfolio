@@ -12,20 +12,20 @@ Below is a subset of my private audit reports that have been approved by clients
 
 | Protocol | About | Report |
 | ---- | ---- | ---------|
-| Dynamo | Yield Vault | [Report](reports/7-10-23-Dynamo.md) |
-| Buffer | Short-dated Options | [Report](reports/7-26-23-Buffer-v2.5.md) |
-| Ubet | Decentralized Sports Betting | [Report](reports/12-18-23-Ubet-Report.md) |
-| Blueberry | Staking | [Report](reports/3-27-24-Blueberry-Staking-Report.md) |
-| AdapterFi | Yield Vault | [Report](reports/5-3-24-AdapterFi-Report.md) |
-| Ubet | Decentralized Sports Betting | [Report](reports/6-12-24-Ubet-Report.md) |
-| AdapterFi | Pendle Integration | [Report](reports/6-28-24-AdapterFi-Pendle-Router-Report.md) |
-| Blueberry | Pendle Integration | [Report](reports/6-29-24-Blueberry-Pendle-Report.md) |
-| NounsDAO | NounsDescriptorV3 | [Report](reports/8-22-24-NounsDescriptorV3-Report.md) |
-| AdapterFi | Yield Bearing Assets Integration | [Report](reports/8-25-24-AdapterFi-Yield-Bearing-Allocator-Report.md) |
-| stUSDCxBloom | Tokenized US Treasuries | [Report](reports/9-22-24-stUSDCxBloom-Report.md) |
-| Ubet | Parley Bets | [Report](reports/12-9-24-Ubet-Parlay-Report.md) |
-| Hyperstable | CDP Stablecoin | [Report](reports/2-5-25-Hyperstable.md) |
-| Belief Market | Sentiment Betting | [Report](reports/4-1-25-Belief-Market-Report.md) |
+| Dynamo | Yield Vault | [Report](reports/23-07-10-dynamo.md) |
+| Buffer | Short-dated Options | [Report](reports/23-07-26-buffer-v2.5.md) |
+| Ubet | Decentralized Sports Betting | [Report](reports/23-12-18-ubet-report.md) |
+| Blueberry | Staking | [Report](reports/24-03-27-blueberry-staking-report.md) |
+| AdapterFi | Yield Vault | [Report](reports/24-05-03-adapterfi-report.md) |
+| Ubet | Decentralized Sports Betting | [Report](reports/24-06-12-ubet-report.md) |
+| AdapterFi | Pendle Integration | [Report](reports/24-06-28-adapterfi-pendle-router-report.md) |
+| Blueberry | Pendle Integration | [Report](reports/24-06-29-blueberry-pendle-report.md) |
+| NounsDAO | NounsDescriptorV3 | [Report](reports/24-08-22-nounsdescriptorv3-report.md) |
+| AdapterFi | Yield Bearing Assets Integration | [Report](reports/24-08-25-adapterfi-yield-bearing-allocator-report.md) |
+| stUSDCxBloom | Tokenized US Treasuries | [Report](reports/24-09-22-stusdcxbloom-report.md) |
+| Ubet | Parley Bets | [Report](reports/24-12-09-ubet-parlay-report.md) |
+| Hyperstable | CDP Stablecoin | [Report](reports/25-02-05-hyperstable.md) |
+| Belief Market | Sentiment Betting | [Report](reports/25-04-01-belief-market-report.md) |
 
 ### Contest Wins
 
