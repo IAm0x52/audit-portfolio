@@ -24,8 +24,10 @@ Below is a subset of my private audit reports that have been approved by clients
 | AdapterFi | Yield Bearing Assets Integration | [Report](reports/24-08-25-adapterfi-yield-bearing-allocator-report.md) |
 | stUSDCxBloom | Tokenized US Treasuries | [Report](reports/24-09-22-stusdcxbloom-report.md) |
 | Ubet | Parley Bets | [Report](reports/24-12-09-ubet-parlay-report.md) |
-| Hyperstable | CDP Stablecoin | [Report](reports/25-02-05-hyperstable.md) |
+| Hyperstable Core | CDP Stablecoin | [Report](reports/25-02-05-hyperstable.md) |
+| Hyperstable Perp Lock | CDP Stablecoin | [Report](reports/25-03-20-hyperstable.md) |
 | Belief Market | Sentiment Betting | [Report](reports/25-04-01-belief-market-report.md) |
+| Hyperstable Flashmint | CDP Stablecoin | [Report](reports/25-04-28-hyperstable.md) |
 
 ### Contest Wins
 
@@ -62,4 +64,5 @@ Below is a subset of my private audit reports that have been approved by clients
 | Index x Morpho   | Morpho Lending Integration | Sherlock | 1st Place  | [Report](https://audits.sherlock.xyz/contests/585/report) |
 | Idle             | Yield Vault | Sherlock | 1st Place  | [Contest Page](https://audits.sherlock.xyz/contests/571) |
 | Plaza            | Market Driven Perpetual | Sherlock | 1st Place  | [Report](https://audits.sherlock.xyz/contests/682/report) |
+| Pareto USP       | Yield Vault Backed Stablecoin | Sherlock | 1st Place  | [Report](https://audits.sherlock.xyz/contests/920/report) |
 
